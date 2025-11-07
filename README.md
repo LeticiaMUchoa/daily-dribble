@@ -1,4 +1,5 @@
 # daily-dribble
+OBS: O projeto foi feito em inglês, pois estou fazendo alguns desafios pelo site Scrimba e aproveitei para aprimorar minhas habilidades com a língua inglesa.
 
 # 🏀 The Daily Dribble Newsletter
 
