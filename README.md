@@ -28,7 +28,7 @@ O foco foi desenvolver uma **landing page visualmente atraente**, com:
 
 ### 🔹 Opção 1 — Via Netlify
 Acesse o site publicado:
-👉 [https://the-daily-dribble.netlify.app](https://the-daily-dribble.netlify.app)
+👉 [https://thebostondaily.netlify.app](https://thebostondaily.netlify.app)
 
 ### 🔹 Opção 2 — Executar localmente
 1. Baixe o repositório:
