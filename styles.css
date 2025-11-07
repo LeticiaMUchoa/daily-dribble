@@ -1,0 +1,99 @@
+body{
+  font-family: "Bona Nova SC", serif;
+  font-weight: 400;
+  margin: 0;
+  text-align: center;
+  background-color: #124134;
+  font-size: 20px;
+}
+
+.intro{
+  color: #00ac60;
+  margin: 0 50px;
+  font-weight: bold;
+}
+
+#logo{
+  padding-top: 20px;
+  width: 100%;
+  max-width: 50px;
+  height: auto;
+}
+
+#images{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.heading-img.tatum{
+  background-image: url("img/brown.webp");
+  background-position: center;
+  background-size: cover;
+  margin: 40px 20px 20px 40px;
+  width: 100%;
+  max-width: 600px;
+  height: auto;
+  aspect-ratio: 16/9;
+  border-radius: 5px;
+  box-shadow: 6px 6px #006737;
+  transition: 1s;
+}
+
+.heading-img.tatum:hover{
+  background-image: url("img/tatumbrown.jpeg");
+}
+
+.heading-img.brown{
+  background-image: url("img/tatum2.webp");
+  background-position: center;
+  background-size: cover;
+  margin: 40px 20px 20px 40px;
+  width: 100%;
+  max-width: 600px;
+  height: auto;
+  aspect-ratio: 16/9;
+  border-radius: 5px;
+  box-shadow: 6px 6px #006737;
+  transition: 1s;
+}
+
+.heading-img.brown:hover{
+  background-image: url("img/browntatum.jpg");
+}
+
+footer{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.email{
+  padding: 5px;
+  border-radius: 5px;
+  width: 300px;
+  color: #00ac60;
+  margin-top: 20px;
+  background-color: #124134;
+  border: 2px solid #006737;
+  box-shadow: 2px 2px #006737;
+  font-family: "Bona Nova SC", serif;
+  font-weight: 400;
+  text-align: center;
+}
+
+.join{
+  width: 100px;
+  border-radius: 5px;
+  padding: 5px;
+  cursor: pointer;
+  color: #00ac60;
+  background-color: #124134;
+  margin-top: 10px;
+  border: 2px solid #006737;
+  box-shadow: 2px 2px #006737;
+  font-family: "Bona Nova SC", serif;
+  font-weight: bold;
+}
