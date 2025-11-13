@@ -27,9 +27,9 @@ O foco foi desenvolver uma **landing page visualmente atraente**, com:
 
 ## 🚀 Como visualizar o projeto
 
-### 🔹 Opção 1 — Via Netlify
+### 🔹 Opção 1 — Via Vercel
 Acesse o site publicado:
-👉 [https://thebostondaily.netlify.app](https://thebostondaily.netlify.app)
+👉 [https://daily-dribble-rust.vercel.app/](https://daily-dribble-rust.vercel.app/)
 
 ### 🔹 Opção 2 — Executar localmente
 1. Baixe o repositório:
